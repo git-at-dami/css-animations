@@ -7,3 +7,6 @@
 
 * for guidance and clarification
 * for styling and branding
+
+### duration
+how long an iteration of an animation takes to complete, could be infinite
